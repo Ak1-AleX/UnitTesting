@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <catch2/catch.hpp>
 #include <stdio.h>
 #include <stdlib.h>
